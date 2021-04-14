@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name":"Nguyet Vu Thu Pham",
+    "occupation":"Sophomore",
+    "description":"I'm an assionate fresher and I want to be a machine learning engineer with the ability to apply ML techniques, algorithms and predictive models for different industries to solve real-world business problems",
+    "image":"profilepic.jpg",
+    "bio":"I'm an sophomore at Vietnam-Korea University of Information and Communication Technology with the major in Computer Science. I want to be a machine learning engineer with the ability to apply ML techniques, algorithms and predictive models for different industries to solve real-world business problems",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pvtnguyet.19it1@vku.udn.vn",
+    "phone": "(+84) 941 257 069",
+    "address":{
+      "street":"Mai Dang Chon street",
+      "city":"Ngu Hanh Son district",
+      "state":"Da Nang city"
+    },
+    "website": "https://www.facebook.com/Amber.Rum.306/",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/Amber.Rum.306/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PhamVuThuNguyet",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    
+    "education":[
+      {
+        "school":"Vietnam - Korea University of Information and Communication Technology",
+        "degree":"Computer Science Engineering",
+        "graduated":"August 2024",
+        "description":"GPA: 3.89/4.0"
+      }
+    ],
+    "work":[
+      {
+        "company":"Advanced Java Programming Class",
+        "title":"Teaching Assistant",
+        "years":"Oct 2010 - Present",
+        "description":"- Prepare exercises and solutions for class",
+        "description2":"- Help students fix errors in their code" 
+      }
+    ],
+    "skills1":[
+      {
+        "name":"C/C++"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"HTMK/CSS/JavaScript"
+      },
+      {
+        "name":"PHP"
+      },
+      {
+        "name":"Python"
+      }
+    ],
+    "skills2":[
+      {
+        "name":"SQL Server"
+      },
+      {
+        "name":"MySQL"
+      }
+    ],
+    "skills3":[
+      {
+        "name":"Data Structures & Algorithms"
+      }
+    ],
+    "skills4":[
+      {
+        "name":"Word"
+      },
+      {
+        "name":"Excel"
+      },
+      {
+        "name":"PowerPoint"
+      }
+    ],
+    "skills5":[
+      {
+        "name":"English"
+      },
+      {
+        "name":"Chinese"
+      }
+    ],
+    "skills6":[
+      {
+        "name":"Public Speaking"
+      },
+      {
+        "name":"Team-Working"
+      },
+      {
+        "name":"Team-Leading"
+      },
+      {
+        "name":"Logical thinking and creative"
+      },
+      {
+        "name":"Photography"
+      }
+    ]
+  },
+  
+  
+  "testimonials":{
+    "testimonials":[
+      {
+        "text": "Dreams are not what you see in your sleep, dreams are things which do not let you sleep.",
+        "user": "Cristiano Ronaldo"
+      },
+      {
+        "text":"If you don't do it, nothing is possible.",
+        "user":"Jack Ma"
+      }
+    ]
+  }
+}
