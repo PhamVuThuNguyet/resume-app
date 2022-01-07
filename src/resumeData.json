@@ -1,7 +1,7 @@
 {
   "main": {
-    "name":"Nguyet Vu Thu Pham",
-    "occupation":"Sophomore",
+    "name":"Vu-Thu-Nguyet Pham",
+    "occupation":"Junior Student",
     "description":"I'm an assionate fresher and I want to be a machine learning engineer with the ability to apply ML techniques, algorithms and predictive models for different industries to solve real-world business problems",
     "image":"profilepic.jpg",
     "bio":"I'm an sophomore at Vietnam-Korea University of Information and Communication Technology with the major in Computer Science. I want to be a machine learning engineer with the ability to apply ML techniques, algorithms and predictive models for different industries to solve real-world business problems",
@@ -33,7 +33,7 @@
       },
       {
         "name":"linkedin",
-        "url":"",
+        "url":"https://www.linkedin.com/in/phamvuthunguyet",
         "className":"fa fa-linkedin"
       },
       {
@@ -60,12 +60,12 @@
         "school":"Vietnam - Korea University of Information and Communication Technology",
         "degree":"Computer Science Engineering",
         "graduated":"August 2024",
-        "description":"GPA: 3.89/4.0"
+        "description":"GPA: 3.92/4.0"
       }
     ],
     "work":[
       {
-        "company":"Advanced Java Programming Class",
+        "company":"Programming Classes",
         "title":"Teaching Assistant",
         "years":"Oct 2010 - Present",
         "description":"- Prepare exercises and solutions for class",
